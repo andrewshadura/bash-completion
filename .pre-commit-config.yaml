@@ -60,7 +60,7 @@ repos:
           -
             pyflakes ==2.3.1
           -
-            flake8-bugbear ==21.4.3
+            flake8-bugbear ==21.9.2
         types: [text]
         files: ^(helpers/python|.+\.py)$
         exclude: ^completions/
